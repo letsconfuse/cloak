@@ -27,26 +27,26 @@ pip install opencv-python numpy
 
 python invisible_cloak.py
 
-🛠 How It Works
+#🛠 How It Works
 
     The program captures 30 frames of the background at the start.
     It detects black-colored objects in the frame.
     The detected black areas are replaced with the pre-captured background.
     The rest of the scene remains unchanged, creating the invisibility effect.
 
-🎭 How to Use
+#🎭 How to Use
 
     Wear black clothes or cover yourself with a black cloth.
     Ensure the background is not black (otherwise, it will also disappear).
     Run the program and enjoy the magic!
     Press "Q" to exit.
 
-📌 Possible Improvements
+#📌 Possible Improvements
 
     Add support for custom colors (instead of only black).
     Improve edge detection to reduce noise.
     Enhance performance using multi-threading.
 
-👨‍💻 Contributing
+#👨‍💻 Contributing
 
 Want to improve this project? Contributions are welcome! Feel free to open issues or submit pull requests.
