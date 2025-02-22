@@ -2,8 +2,6 @@
 
 This project recreates the **Harry Potter Invisible Cloak** effect using **OpenCV** in Python. By detecting a specific color (black in this case), the program replaces it with a pre-captured background, making the person appear "invisible."  
 
-## 🎥 Demo  
-*(Add a GIF or screenshot of the effect in action)*  
 
 ## 📌 Features  
 ✅ Detects **black color** and makes it invisible.  
