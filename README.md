@@ -17,13 +17,13 @@ This project recreates the **Harry Potter Invisible Cloak** effect using **OpenC
 git clone https://github.com/your-username/invisible-cloak.git
 cd invisible-cloak
 
-2️⃣ Install Dependencies
+##2️⃣ Install Dependencies
 
 Ensure you have Python installed, then install OpenCV and NumPy:
 
 pip install opencv-python numpy
 
-3️⃣ Run the Script
+##3️⃣ Run the Script
 
 python invisible_cloak.py
 
@@ -34,19 +34,19 @@ python invisible_cloak.py
     The detected black areas are replaced with the pre-captured background.
     The rest of the scene remains unchanged, creating the invisibility effect.
 
-#🎭 How to Use
+##🎭 How to Use
 
     Wear black clothes or cover yourself with a black cloth.
     Ensure the background is not black (otherwise, it will also disappear).
     Run the program and enjoy the magic!
     Press "Q" to exit.
 
-#📌 Possible Improvements
+##📌 Possible Improvements
 
     Add support for custom colors (instead of only black).
     Improve edge detection to reduce noise.
     Enhance performance using multi-threading.
 
-#👨‍💻 Contributing
+##👨‍💻 Contributing
 
 Want to improve this project? Contributions are welcome! Feel free to open issues or submit pull requests.
